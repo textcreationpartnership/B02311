@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Mr. Donald Cargill to his paroch of the Baronny Kirk in Glasgow. March the 27th 1681.</title>
+            <author>Cargill, Donald, 1619?-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02311</idno>
+            <idno type="STC">Wing C568A</idno>
+            <idno type="STC">ESTC R173394</idno>
+            <idno type="EEBO-CITATION">52211727</idno>
+            <idno type="OCLC">ocm 52211727</idno>
+            <idno type="VID">175458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175458)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Mr. Donald Cargill to his paroch of the Baronny Kirk in Glasgow. March the 27th 1681.</title>
+                  <author>Cargill, Donald, 1619?-1681.</author>
+               </titleStmt>
+               <extent>[1], 2-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Letter written by Cargill, a Covenanting preacher, shortly before his execution in Edinburgh on 27 July, 1681.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175458:1" rendition="simple:additions"/>
+            <head>A LETTER FROM Mr. <hi>DONALD CARGILL</hi> to his PAROCH Of the Baronny KIRK in <hi>GLASGOW.</hi>
+            </head>
+            <opener>
+               <date>
+                  <hi>March</hi> the 27th 1681.</date>
+            </opener>
+            <p>I Am Debitor to all, but ſpecially to you but how to requite my Obligations I know not, to return all is impoſſible, to return no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing is great ingratitude, ye know what kind my return muſt be; I have deſired and do deſire your well beeing, and walking in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Truth, without a further look to yours, be humble always, thankful for what ye have received: and ſtill Thrifting after more; for his fulneſs is Infinite, and your wants is wonderful great, and it cannot be
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight with us where our needs are not right <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our Eye, and Chriſt in our Heart. And
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et none think it ſufficient to be right in one
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing if he be not labourng to be Right in all, it was if I miſtake nor, the fault of our Profeſſors that ſyded with the times &amp; work of Reforma<g ref="char:EOLhyphen"/>tion,
+<pb n="2" facs="tcp:175458:2"/>Communicating of theſe common g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that followed it, made them ſtart, and ſli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> into their Profeſſion; GOD did indeed ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhyne upon theſe times, is things that
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warmed Hearts, when it did not melt them and he alſo gave theſe common gifts of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit, (as to <hi>Saul</hi>) without that immorta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeed, that only makes durable. And thoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were the things together with the miſtake (to ſay no worſe) of Miniſter that gav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe names and places, wherewith they wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poffed up, and authorized; Theſe preſent de<g ref="char:EOLhyphen"/>fections &amp; this with what will follow (for al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not yet done, and ſeen) ſhal more fully diſ<g ref="char:EOLhyphen"/>cover this defect, and take away both tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit and Name, and leave them poorli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtanding (O! that the Writing of this migh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make ſome of them prevent it) having no<g ref="char:EOLhyphen"/>thing for all but maintaining a Cauſe, that i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> neither Right Libertie, nor true Religion Nor whereof I hope ere all be done, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be no rule. I do not ſpeak this of then all, for there are ſome of them, who not onli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> were in Chriſt before me, but alſo before theſe times, and was otherwiſe wrought up<g ref="char:EOLhyphen"/>on, and theſe are neither ſo fullie nor (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope) ſhal be ſo firmlie there, they having the imortal ſeed, the ſaving Graces of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:175458:2"/>Spirit in them, that does either keep from falls, or ſurelie and quicklie recover them a<g ref="char:EOLhyphen"/>gain, there being there a real difference, we ought to acknowledge it in our compaſſion tenderneſs and affection, and withal Pray, that they may be made to ſee what and whom they have relinguiſhed: O! that God would open Mens Eyes, that they may ſee how little good, and how much evil it has wrought, I pray how little it has done for the freedom, and enlargement of the Kingdom of Chriſt, and how much for confirming. Its thraldom and confyning, its enlargement, neither do I ſee that it makes for the gaining of Souls in<g ref="char:EOLhyphen"/>to God for their adherance, who is not re<g ref="char:EOLhyphen"/>ligions will go no further with them, nor they come to their own deſires, which toge<g ref="char:EOLhyphen"/>ther to provide for their own private ſafetie, gain, and a name of Nonconformiſts, &amp; on the other hand what evil has it wrought? <hi>They themſelves when come to themſelves, and ſo<g ref="char:EOLhyphen"/>ber, will ſee that it hath not increaſed, the Treaſure of God in themſelves, but has be<g ref="char:EOLhyphen"/>gotten an evil affection, and raiſed paſſion a<g ref="char:EOLhyphen"/>gainſt theſe whom I think themſelves esteemed Godly, becauſe they laboured to waken Conſci<g ref="char:EOLhyphen"/>ences, and return them to a rightneſs, and mind them of their Vows to God, and becauſe <pb n="4" facs="tcp:175458:3"/>they ſtand in the way of gratifyng a ſinful power, of ſaving Life on any terms, ſecuring their quiet, and ſhunning the Croſs of Christ, who is calling all at this time to take it up: And under a greater damnage nor what is, or can be ſecured by theſe ways, or they can compence<g ref="char:punc">▪</g> And it is juſt with God, and I fear, it ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fall out that theſe People ſhall never be ſevered from theſe Miniſters, nor they from theſe Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> till they lead one another to Judgement, and this ſhall far exceed the benefites, that has been gotten; and as it hath begotten an evil eye to<g ref="char:EOLhyphen"/>ward their own, ſo it has abated zeal, and conciliated a favour toward theſe that are ene<g ref="char:EOLhyphen"/>mies of God and all Righteouſneſs.</hi> And has ſo enſnared and all<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enated the Land f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and him from it, that he will n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more ſhyne on it, till theſe ſins be purged and theſe Perſons removed, either by th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> providence and judgements of God, or juſtic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and zeal for Men: But as he has give<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you to be right in one, ſo ſtudie to be righ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all, and let not your Hearts be taken u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with nothing to the Prejudice of the who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Religion: It is true it is a great one, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is a greater than it, without which no<g ref="char:EOLhyphen"/>thing can be rightly done by you nor accep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed with by him, &amp; withal let them ſee that <pb n="5" facs="tcp:175458:3"/>have as great a Heart hatred of Secret and pri<g ref="char:EOLhyphen"/>vate Sins as of publick evils; for Satan may Sometimes Foyl you in both; Keep livelie and in Sight of him, and ſo ye ſhall ſee beſt, Taſte Beſt, Savour beſt: By this ye ſhall onlie be able to quit Your ſelves Right<g ref="char:EOLhyphen"/>lie, and let the World ſee, tho' ye be neceſſi<g ref="char:EOLhyphen"/>tate to be more hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in this at this time, yet that ye are walking in all other things accord<g ref="char:EOLhyphen"/>ing to his Commands, &amp; are tender of every one of them in their turn, and that ye are not making this a Cloak for other Sins, neither think that it Diſcharges us of all or any one of the other duties of Religi<g ref="char:EOLhyphen"/>on, but on the contrair that we are the more obliged to holieneſs both in regard of the Cauſe that we are to adorn, &amp; in regard of the Oppoſers, who when they find themſelvees behind in Reaſon, ſtudies to find our ſomething in our Converſation, to hold us out to the World as Men deſtitute of holineſs; and ſo ſuch as truth cannot be expected to be found with: As alſo, to ſet up ſuch Spotted Creatures, deſtitute of wiſ<g ref="char:EOLhyphen"/>dom and knowledge to compare themſelves with and to raiſe in themſelves, that which is high enough alreadie; That under that their greatneſs, they may ſhred themſelves <pb n="6" facs="tcp:175458:4"/>from the checks of Conſcience, and the chal<g ref="char:EOLhyphen"/>lenges of Non-performed Vows which runs the Quite contrarie way to what they are doing. But let us look well to our ſelves, and the more we are right in theſe publick things the more Satan will Aſſault, and ſeek to foyl in other things; for tho he be an Enemie to all that hath any thing of the fear of GOD or form of Godlineſs: Yet he exerciſes moſt againſt perſons (when and where he is per<g ref="char:EOLhyphen"/>mitted, more or leſs, as they are againſt his Kingdom (and its Dimmiſhing,) and for the exaltment and enlargment of the Kingdom of GOD; So that ye ſhall have him more em<g ref="char:EOLhyphen"/>minentlie againſt you nor you Opoſites eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe of them which may be has a greater meaſure of perſonal holieneſs: For I will not ſay but there may be true Godlieneſs which is much, I do not ſay too much; for that cannot be if we neglect not the other a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Home, and within; and with theſe will all luke<g ref="char:EOLhyphen"/>warm profeſſors Joyn, in regard of their de<g ref="char:EOLhyphen"/>ſign and deſire, is the ſame, tho upon fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> different Accounts; for both deſires Libertie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Quite the one, that he may exerciſe Reli<g ref="char:EOLhyphen"/>gion, and the other for other ends; For this in the trulie godlie is not an Affection new<g ref="char:EOLhyphen"/>ly begotten by fear of the Croſs, as in the othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:175458:4"/>much leſs is it from any deffect of Judgment, if they would extend, and exerciſe their mind to the Contemplation of theſe things. But I muſt ſay that this their way that are tru<g ref="char:EOLhyphen"/>lie godlie may ſeem to be great, and ſome<g ref="char:EOLhyphen"/>times to my ſelf, has ſeemed greateſt, yet is not ſo great as it ſeems, being Defective in a manner (a Zeal to) he Expounded Kingdom and publick Glory of GOD and Good of Mankind, and ſuffers Satan to ſit beſide God and his Kingdom to be Triumphant and free, and Gods to be Beggarlie and Enſlaved, and ſo in a manner he gives a Ceſſation of Arms where there is ſuch a yielding to his intereſt and inſtruments that are acted by him, and follows him: and for others of your Oppo<g ref="char:EOLhyphen"/>ſites that has leſs of Religion and takes upon them more of this Combat, he has leſs quarrel with them, if any more at all, but what he bears to all Mankind; And ſo they have a greater Ceſſation from him as to his Temp<g ref="char:EOLhyphen"/>tations. I do not ſay from the Temptations of their own Corruptions, for that works naturally: So always, tho not always alike, but he works rationallie, and upon deſign; ſo that he is ſo far from troubling with other things, that he enables them with gifts for a<g ref="char:EOLhyphen"/>genting that Cauſe &amp; Virulence to Convince <pb n="8" facs="tcp:175458:5"/>all that Oppoſe it, and ſuffers them to retain their formality in worſhiping, for adorning it, and deluding themſelves in the Point of Re<g ref="char:EOLhyphen"/>generation, True Religion and Righteouſneſs. And I may Truly ſay, that there may be more True Godlieneſs, in one againſt whom Sa<g ref="char:EOLhyphen"/>tan exerciſes his full malice; and is permitted ſometimes to puddle, nor in the fairneſs of a Thouſand ſuch who wants the broken heart and Regeneration; And this I fear will be found to be the Caſe of theſe Comba<g ref="char:EOLhyphen"/>tants that are alwiſe in Arms upon its, and no other account: <hi>Let them then that are Studying Righteouſneſs in all things and ſeek<g ref="char:EOLhyphen"/>ing the enlarging and exalting of Chriſt's King<g ref="char:EOLhyphen"/>dom, and the overthrowing of Satans expect the encreaſing of Devils and multiplying of Temptations, for procuring of your foyll and fall, O! Fear, Trust, Watch, Pray for your ſelves and one another, knowing that ye have all the ſame Conflict, Temptations, and Weakneſs of the fleſh, and have the more fer<g ref="char:EOLhyphen"/>vent Love among your ſelves, ſeing you are now Fewer, and have all Your things Common; Your Griefs, Your Temptations: Your Mercies your Joys, your Subſtance, your Goods ſo far as it ſhall be needfull, for it is like the time is every near that will make all alike in theſe
+<pb n="9" facs="tcp:175458:5"/>things, I fear many are Buying, Building, and Gathering, for our Enemies: We know not ere it he long, but Forraigners may be holding in one ſide and Intestine Enemies the other; and the Sea all:</hi> and then our Gentiles and others that ſaw nothing to their Lairdſhips, and Eſtates find them to be no<g ref="char:EOLhyphen"/>thing, and the greateſt and the Richeſt, ſo put to it, that if they eſcape, ſhall not be able to carry away Cloaths, ſo much as to cover them from the cold, nor Mony ſo much as to Buy them Bread, if they find it where they come to be bought, and then this will be the Price of our evil Conſciences, when nothing will be left but Sin and Sorrow (for if any thing ſhall remain as we pray and hope there will) a revive after all theſe Vaſtations and Over-running of Judgments, it ſhall be that poor and hated party who ſought his glory, and laboured for a good Conſcience above all other things; For if the Lord give any of theſe things again to anie of us, it will be to thoſe that ſhal ſincerly ſtudy to have them his, and ſhall not give them up to Men to Judge them after the Luſts: For the pre<g ref="char:EOLhyphen"/>ſent, I have comfort in nothing, but that I think I ſee his abode in the Land; And it is a thing ſo wonderful, that I can hardly <pb n="10" facs="tcp:175458:6"/>get it believed after there has been ſo great indignities done to him by the multitude great and mean, and ſuch, and Unfaithfulneſs in his Rights, miſ<g ref="char:EOLhyphen"/>regarded as Indifferencies ſhown in his Matters, with atchieve to have and hold them that are not only perejudicial to his Reigning, but utter overthrowers of his Kingdom, inconſiſtent with his Cohabita<g ref="char:EOLhyphen"/>tion with us; Yet, I ſay, I think I ſee his Abode and Glorie beyond all theſe Judgments tho' we ſhould come ſhort of this, yet if we be his we ſhal fall in a better. And O! How good is it to die, having theſe Deſires, and to leave behind us the Mould of ſuch a Fa<g ref="char:EOLhyphen"/>brick to our Succeſſors: And it ſeems the Lord is making a far off Preparation for Building, by removing of the old rotten Stuff of the Former Houſe, and tho' we cannot ſee at preſent where the matter for the New ſhal come, yet it ſhal be ſurelie furniſhed in its time, and it ſhal be ſaid with great Admi<g ref="char:EOLhyphen"/>ration, <hi>I was</hi>—
+<hi>and who both.</hi>— If anie of us ſhal come to theſe things, we may have this Advantage, <hi>that throw Age or Grace, or both, we ſhal be paſt the reliſh of any thing but what is Divine,</hi> and this verie thing as it may help now to make our End right, ſo it <pb n="11" facs="tcp:175458:6"/>ſhal help them to make our Enjoyments pure and ſweet: But the Cloud betwixt this and it is dreadful. And O! that I knew how to Warn, Counſel, Confirm and Com<g ref="char:EOLhyphen"/>fort you, yet it is in his Hand, <hi>who is Infi<g ref="char:EOLhyphen"/>nitely more tender, and I leave it to him,</hi> but prepare for Death, and that which to ſome is worſe, and think not that Rightneſs in theſe debated Matters will do it, tho I e<g ref="char:EOLhyphen"/>ſteemed much of that, and cannot but ſay if it be ſingle and extenſive, that it looks like a Spark of true Grace; yet think it not ſuf<g ref="char:EOLhyphen"/>ficient without Repentance, for the manie ſin<g ref="char:EOLhyphen"/>ful ſteps we have ſtepped throw Fear, Cor<g ref="char:EOLhyphen"/>ruptions and Temptations, and come alſo by waiting on them (who are now gone from us, to have had them up with us. Beſide all theſe, there muſt be a conſtant Depend<g ref="char:EOLhyphen"/>ance upon, and imploying of God throw Chriſt for keeping a Perſeverance; and that further ye flee from theſe Men that are ſtan<g ref="char:EOLhyphen"/>ding ſtated Enemies to GOD the better; and I am miſtaken if the LORD be not calling all Beaſts to come from the Shadow, and all Fowls out of the Branches of that Tree that is to be cut down, and theſe that have ſled thereto firſt, but eſpecial lie laſt ſhal find it. So this their doing in regard of Sin, ſhall <pb n="12" facs="tcp:175458:7"/>be like <hi>Jehoſhaphats</hi> Aſſociation with <hi>Ahab,</hi> &amp; in regard of its Fortunateneſs, or rather Un<g ref="char:EOLhyphen"/>fortunateneſs, like the Viſit of <hi>Ahaziahs</hi> Bre<g ref="char:EOLhyphen"/>thren to <hi>Jehoram,</hi> who was cut off by
+<hi>Jehu,</hi> and I fear that Miniſters and others that has concurred with them ſhal not be the leaſt part of the Fewel of this Burning, and theſe of them that ſhal Survive, ſhal be to conſume the Eyes, &amp; grieve the Hearts of the Relatives; And ſure they will want much, as the Comfort that that Word would have yielded, <hi>ye are they that have continued with me in my Temptations.</hi> But ſtand off from the Ene<g ref="char:EOLhyphen"/>mies of the LORD, and think it much if ye be keeped free of their Injuri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s &amp; be Submiſſive &amp; content tho injured: but ſeek none of their Favours; for they are Snares, neither accept of them if they give them as their Favours, and not as your own Right; For theſe that want them ſhal have but a ſhort Time to be<g ref="char:EOLhyphen"/>moan their Loſs, and theſe that gets them but a ſhort while to rejoice in their Enjoy<g ref="char:EOLhyphen"/>ments; For he is lifting up an Enſign to the Nations from afar, and hiſſing to them from the Ends of the Earth; [And behold they ſhal come with ſpeed ſwiftlie, <hi>Iſa.</hi> 5.26.] It ſhal indeed come ſuddenlie, and when it comes it will give them no offer of Parlie, Oc<g ref="char:EOLhyphen"/>caſions
+<pb n="13" facs="tcp:175458:7"/>if tampering or agreement upon any Conditions; For he that ſends it, intends nothing but Puniſhment and Sweeping, and he knows they have ſuch changeable Minds, and lacks Conſciences, that would agree upon any Intereſt for their own Safetie, but nothing will do it but Lives, Lands, &amp; Religion, which to them is leaſt of all. When ye ſee the Be<g ref="char:EOLhyphen"/>ginnings of theſe Things, if near God, and if not; it is like ye will be Involved in the common State: Take heed what he ſuggeſts and offers for Safety, and let him that thinks himſelf moſt engaged to a bide, flee firſt; For flee, and judge we muſt till the Vengeance be poured forth, and then ſhal be ſeen ano<g ref="char:EOLhyphen"/>ther Cauſe (<hi>beſide the owning of that curſed Intereſt, and that ſinful Defection, which GOD denyed Succeſs to</hi> Bothwel, <hi>that it was not Mercy to Victors, or Favour to the Land, or <g ref="char:V">Ʋ</g>njuſtneſs of the Quarrel, if it had been rightly stated, as ſome would have had it</hi>) <hi>but in Judgment as thoſe that oppoſed it, and to thoſe that miſtated it, that he might deliver them up to more hardned Hearts, and Cruel Hands to be puniſhed, and for Chaſtiſement to thoſe who continued to appear for a mistated Quarrel, and in the one Providence ſhall ex<g ref="char:EOLhyphen"/>pone another. We have ſeen the hazard, let us <pb n="14" facs="tcp:175458:8"/>no more own their Intereſt, nor make further Conjunction with them, no not for Defence, tho' National and Religious Obligations ſeem toty us:</hi> For all that ſeems to engage us to their help is but a Temptation; for if they ſhould be able to retain any thing, they would retain it neither for GOD nor us; and we ſhould but eſtabliſh them to expoſe GOD and oppoſe us; And if we ſhall eſſay to help them, we ſhal fall in their Wrath; And I know not any Duty this Day we owe them but Prayers as for the Enemies of GOD, and to execute Judgment on them if we had Po<g ref="char:EOLhyphen"/>wer: and becauſe that has not been do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he will cauſe ſome from elſewhere upon our Charges to do it. I do not give you here long Arguments to Debate with Expoſites, be<g ref="char:EOLhyphen"/>cauſe <hi>I</hi> judge ye ſhould leave that and them to Annotations of Providence, —<hi>pouring out of the Spirit of Judgment, as they ſhal be found Friends or Enemies.</hi>— As for our Agreement with our real Friends that are on the other fide, if they would return from the evil of their way, few Words would do it, where Hearts are not at an Enmitie; but if not, trouble not your ſelves about it; For the Time will not be long.</p>
+            <closer>
+               <hi>Peace be with you.</hi> AMEN.
+<signed>DO CARGILL.</signed>
+               <pb n="15" facs="tcp:175458:8"/>
+
+               <signed>DO. CARGILL.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>As for your Collections; the Poor are yours as well as others; and ye ought to ſee to them, either by your ſelves or others; But as for your Contribution to Miniſters, I ſee not how ye can do it, more than ye can hear them.</hi> Peace be with you all.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
